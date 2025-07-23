@@ -1,0 +1,79 @@
+2. Modelos de implantação em nuvem
+
+    Tendo em vista os contextos e as necessidades de diferentes cenários, a
+implantação de recursos de computação em nuvem pode ser feita de diferentes
+maneiras. Aqui, o termo "implantação" se refere a todo o processo de tornar o
+serviço em nuvem operacional. Conforme (), existem 4 classificações de modelos
+de implementação - em inglês, deployment models -, detalhadas a seguir.
+
+2.1. Nuvem privada
+    Tipo de implantação dedicado a atender um único cliente - seja um usuário,
+uma equipe, ou organização -, onde os recursos computacionais são controlados
+por e reservados exclusivamente para esse cliente, oferecendo isolamento e
+autogerenciamento. As principais características desse tipo de implantação são
+desenvolvidas a seguir.
+        * Recursos dedicados: As capacidades de processamento e armazenamento
+          são utilizadas exclusivamente pelo cliente, proporcionando
+          estabilidade e melhor performance por não haver compartilhamento de
+          recursos com outros usuários, como acontece na nuvem pública por
+          exemplo.
+        * Melhor personalização: Como há um maior controle por parte do cliente,
+          é mais fácil decidir como alocar os recursos, administrar a rede e
+          tomar decisões sobre o uso dos equipamentos, dados e serviços.
+        * Segurança: No geral a nuvem privada será administradapor uma equipe
+          autorizada do cliente, também é possível estabelecer e controlar
+          medidas de segurança próprias em políticas de acesso e proteção dos
+          dados. Fora isso, há também o fator do isloamento, tanto físico como
+          lógico, que a nuvem privada pode oferecer,. Isso contribui para
+          uma melhor segurança.
+    Nuvens privadas podem ser classificadas em dois tipos quanto a sua
+localidade, que pode ser interna, ou seja, no alcance do usuário, quanto
+externa, por exemplo em casos onde o serviço é utilizado por vários setores, mas
+que pertencem a uma mesma empresa. Esses aspectos são divididos da seguinte
+forma:
+        * on-premises: Utiliza da infraestrutura interna do próprio cliente
+          para a implantação. Isso implica uma limitação em questão de
+          capacidade e escalabilidade uma vez que os custos associados ao
+          hardware, espaço físico, equipes de operação, entre outros dependem do
+          cliente, mas também oferece maior controle.
+        * off-premises: A infraestrutura é dedicada ao cliente, mas se localiza
+          em um provedor externo. O isolamento ainda é mantido e os recursos são
+          utilizados exclusivamente pelo cliente, mas o equipamento e a gestão
+          sobre ele - manutenção, monitoramento, etc. - são terceirizados.
+    Em suma, a nuvem privada oferece recursos dedicados, melhor
+estabilidade, segurança dos dados e dos processos e um maior grau de adequação à
+diferentes casos. Em contrapartida, introduz os custos com o gerenciamento dos
+recursos, . É geralmente utilizada quando há necessidade por .
+
+2.2. Nuvem pública
+    Tipo de implantação em que os recursos são disponibilizados por um provedor
+terceirizado, através da internet. O provedor é responsável por manter, operar e
+gerenciar os recursos ofertados, que são compartilhados entre os clientes, mas
+onde cada cliente acessa e sua própria área isolada através de autenticação e
+autorização. Entre as principais características desse modelo de implantação
+estão:
+        * Compartilhamento de recursos: Na nuvem pública, a infraestrutura e os
+        recursos computacionais são compartilhados entre os vários clientes, 
+        * Acessibilidade:
+        * Ambiente flexível e autonomia do usuário: 
+    Em resumo, 
+
+
+2.3. Nuvem híbrida
+    Trata-se de uma junção de implantações privada e públicas, 
+
+2.4. Nuvem comunitária
+    
+
+3. Vantagens e oportunidades
+   O uso da computação em nuvem pode trazer diversos benefícios aos usuários e
+organizações que a utilizam, (...).
+    Primeiramente, se fala das vantagens mais diretas associadas ao uso da
+nuvem. Há uma facilidade de acesso aos dados armazenados na nuvem, porque pode
+ser feito de praticamente qualquer lugar com uma conexão com a internet.
+    A utilização de um serviço de nuvem terceirizado pode ajudar a reduzir os
+custos que existiriam com a infraestrutura, espaço, hardware e energia que, bem
+como o trabalho necessário de manutenção, 
+
+4. Desvantagens e desafios
+    
